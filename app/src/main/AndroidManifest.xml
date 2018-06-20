@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ispring.gameplane" >
 
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="23"></uses-sdk>
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
